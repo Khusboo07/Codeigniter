@@ -5,4 +5,3 @@ Projects in Codeigniter
 that view
     from controller.
 3. Save employee entries using employee_model
-4. Display employee entries in list_employee view.
